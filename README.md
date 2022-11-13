@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azaam00
+- 👋 Hi, I’m Azam Abdullah
 - 👀 I’am interested in Web Development
 - 🌱 I'm learning how to make a cool website
 - 💞️ I want to collaborate with many companies in the world to make the official website of a big company
